@@ -2,12 +2,12 @@ body {
   text-align: center;
   background-color: rgb(233, 215, 207);
   margin: 50px;
-  border-radius: 100px;
 }
 
 img {
   width: 200px;
   height: 200px;
+  border-radius: 100px;
 }
 
 h1 {
